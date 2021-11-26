@@ -1,0 +1,4 @@
+﻿  advent_of_code.cpp
+C:\Users\NWANKITI UGOCHUKWU\Desktop\CPP ++\My C++ Projects\advent_of_code\advent_of_code\advent_of_code.cpp(28,24): warning C4018: '<': signed/unsigned mismatch
+C:\Users\NWANKITI UGOCHUKWU\Desktop\CPP ++\My C++ Projects\advent_of_code\advent_of_code\advent_of_code.cpp(29,27): warning C4018: '<': signed/unsigned mismatch
+  advent_of_code.vcxproj -> C:\Users\NWANKITI UGOCHUKWU\Desktop\CPP ++\My C++ Projects\advent_of_code\Debug\advent_of_code.exe
